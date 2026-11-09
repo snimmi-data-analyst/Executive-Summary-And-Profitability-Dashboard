@@ -29,5 +29,6 @@ This project focuses on analyzing business performance and profitability using M
 
 ## Project Outcome
 Created an interactive Excel dashboard that converts business data into meaningful insights, helping users understand financial performance, identify profitable products, and make data-driven decisions.
+
 <img width="1681" height="867" alt="Screenshot 2026-11-09 233130" src="https://github.com/user-attachments/assets/a4a0b621-d996-4086-b1e3-cd33ee941edb" />
 
